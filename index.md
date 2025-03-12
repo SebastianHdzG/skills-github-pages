@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -13,7 +12,7 @@
   <body style="background-color: #dedede; font-family: arial; text-align: justify; font-size: 18px;">
     
     <!--Titulo-->
-   <div class="container-fluid bg-secondary">
+   <div class="container-fluid">
     <div class="container">
      <div class="row">
       <div class="col-12 p-5">
@@ -69,7 +68,6 @@
        </div>
 
      </div>
-   </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
