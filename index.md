@@ -8,7 +8,7 @@
   </head>
   <body style="background-color: #dedede; font-family: arial; text-align: justify; font-size: 18px;">
     
-   <div class=".container-fluid bg-secondary">
+   <div class="container-xl bg-secondary">
     <div class="container">
      <div class="row">
       <div class="col-12 p-5">
