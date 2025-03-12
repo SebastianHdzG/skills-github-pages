@@ -38,7 +38,7 @@
      <div class="col-12">
          <p>Un <b> marco de trabajo </b> para la arquitectura empresarial es un conjunto de herramientas, metodologías, mejores prácticas y estándares que ayudan a las organizaciones a diseñar, planificar, implementar y gestionar su arquitectura empresarial. Su objetivo principal es alinear la estrategia de negocio con la tecnología, garantizando que los sistemas, procesos, datos y recursos de TI estén organizados de manera eficiente para cumplir con los objetivos de la organización</p>
        </div>
-      </div>
+<p>Sebastian Hernande Gonzalez.</p>    
 
        <!--Segundo renglon-->
        <div class="row mt-3 justify-content-center">
